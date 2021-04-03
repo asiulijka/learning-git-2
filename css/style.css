@@ -1,0 +1,16 @@
+.song {
+  text-align: center;
+}
+
+#title {
+  font-size: 24px;
+}
+
+#text {
+  font-size: 16px;
+  font-style: italic;
+}
+
+html {
+  background-color: lightblue;
+}
