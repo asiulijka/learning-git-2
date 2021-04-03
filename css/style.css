@@ -4,6 +4,7 @@
 
 #title {
   font-size: 24px;
+  color: darkblue;
 }
 
 .text {
@@ -13,4 +14,12 @@
 
 html {
   background-color: lightblue;
+}
+
+.ref {
+  color: #5a5a5a;
+}
+
+.part {
+  color: darkgreen;
 }
